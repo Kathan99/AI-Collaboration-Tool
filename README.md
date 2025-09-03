@@ -2,9 +2,6 @@
 
 This is a web-based collaborative editor built with React, featuring a suite of AI-powered tools designed to assist with writing and research. The application includes a rich text editor, an AI chat assistant, and a floating toolbar for quick text manipulations. This project was created to fulfill the requirements of a frontend developer technical assignment.
 
-![AI Collaborative Editor Screenshot](my-app/screenshots/Screenshot 2025-09-03 at 17.45.19.png)
-*Note: Replace the URL above with a real screenshot of your running application. You can upload an image to a service like [Imgur](https://imgur.com/) to get a shareable link.*
-
 ---
 
 ## Features
